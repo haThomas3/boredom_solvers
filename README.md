@@ -8,7 +8,8 @@ A collection of lightweight Python games and interactive simulations developed d
 A fully functional implementation of the classic casino card game.
 
 
-## 🃏 The Game of Glory: A simple, statistics-based card game that I used to play with friends back home. Building this helped me deal with a bit of homesickness and let me bring a piece of home to the school with me.
+## 🃏 The Game of Glory:
+A simple, statistics-based card game that I used to play with friends back home. Building this helped me deal with a bit of homesickness and let me bring a piece of home to the school with me.
 
 ## 🦅 Boids Playground (Flocking Simulation)
 An interactive, real-time visualization of the famous "Boids" artificial life program, simulating the flocking behavior of birds, fish, and insects.
