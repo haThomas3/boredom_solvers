@@ -15,7 +15,7 @@ A simple, statistics-based card game that I used to play with friends back home.
 An interactive, real-time visualization of the famous "Boids" artificial life program, simulating the flocking behavior of birds, fish, and insects.
 
 * **The Inspiration:** After falling down a YouTube rabbit hole and watching a fascinating video by *Smarter Every Day* about the underlying math of bird flocks, I was amazed that such complex, emergent behavior stems from just three simple rules. I knew I had to try implementing it myself.
-* **The Goal:** Beyond coding the algorithm, I used this project as an excuse to step outside my academic comfort zone. I wanted to experiment with graphical interfaces, real-time rendering, and custom UI components (like sliders and preset buttons) using `pygame`—tools and visualization techniques I hadn't formally learned in my coursework.
+* **The Goal:** Beyond coding the algorithm, I used this project as an excuse to step outside my academic comfort zone. I wanted to experiment with graphical interfaces, real-time rendering, and custom UI components (like sliders and preset buttons) using `pygame`-tools and visualization techniques I hadn't formally learned in my coursework.
 * **Key Features:** Hard boundaries ("fish-tank" effect), dynamic UI sliders to tweak Separation, Alignment, and Cohesion on the fly, and biological presets that instantly shift the flock's behavior to mimic different species.
 
 ## 🛠️ How to Play
