@@ -1,5 +1,5 @@
 # 🕹️ Boredom Solvers
-A collection of lightweight, terminal-based Python games developed during long academic lectures. These scripts focus on clean logic, efficient state management, and providing a quick hit of entertainment—all while keeping the codebase concise (typically under 150 lines).
+A collection of lightweight, terminal-based Python games developed during long academic lectures. These scripts focus on clean logic, efficient state management, and providing a quick hit of entertainment-all while keeping the codebase concise (typically under 200 lines).
 
 🚀 Included Games:
 
